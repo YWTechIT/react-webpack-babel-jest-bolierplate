@@ -1,7 +1,8 @@
-### ❏ react에서 CRA를 사용하지 않고 webpack과 babel, eslint, prettier, jest를 이용합니다.
+### ❏ Title: react에서 CRA를 사용하지 않고 webpack과 babel, eslint, prettier, jest를 사용한 boilerplate
 
-### ❏ 사용법
-1. npm i
-2. dev: npm run dev
-3. build: npm run build
-4. test: npm run test
+### ❏ How to Use
+1. git clone `https://github.com/YWTechIT/react-webpack-babel-jest-bolierplate.git`
+2. node_modules: `npm i`
+3. dev mode: `npm run dev`
+4. build production: `npm run build`
+5. test jest: `npm run test`
